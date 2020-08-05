@@ -12,7 +12,7 @@ from scipy.spatial import distance
 
 
 ##change path appropriately##
-os.chdir('C:\\Users\\Sergis Nicolaou\\Desktop\\case4')
+os.chdir('C:\\Users\\Sebhat Yidelwo\\Desktop\\case4')
 
 
 ##data cleaning##
